@@ -2,7 +2,9 @@
 
 ## Play
 
-- [Play 入门与学习(一)](Play/play_01.md)
+- [Play 入门与学习(一): Controller & Router & BodyParser](Play/play_01.md)
+- [Play 入门与学习(二): Action Composition](Play/play_02.md)
+- [Play 入门与学习(三): Asynchronous results](Play/play_03.md)
 
 ## Netty
 
